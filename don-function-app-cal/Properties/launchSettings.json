@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "don_function_app_cal": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7203",
+      "launchBrowser": false
+    }
+  }
+}
